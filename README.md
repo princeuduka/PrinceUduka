@@ -1,45 +1,21 @@
-### Hi there 👋
-
-<!--
-**princeuduka/PrinceUduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<p align="center">
-    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width="1500" height="300" src="https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt="My Banner which features details of what I do & where you can find me on social media.">
-    </a>
-</p>
 
 <h3 align="center">
-    Hi, I'm <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer">Jennifer Opal</a>.👋🏾(she/her)
+    Hi, I'm <a href="http://princeuduka.co/" target="_blank" rel="noreferrer">  Prince Uduka</a>.👋🏾(he/him)
 </h3>
 
 <h4 align="center">
-    I'm a DevOps Engineer, Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger, Keynote Speaker & Technologist.✨
+    I'm a System Engineer, life-long learner, Inclusion Advocate & Information Technologist.✨
 </h4>
 
 ## Get To Know Me:
 
-- I'm queer! 🌈
-- I have dyslexia, dyspraxia & ADHD. I'm unapologetic about being neurodivergent! 🧠
-- I started my tech career journey as a Software Engineer in Test Automation & then switched to becoming a DevOps Big Data Engineer. 👩🏾‍💻
-- I'm Congolese! 🇨🇩
-- I'm a London Girl, born & raised. 🇬🇧
-- I sit on the Co-Production Board of a charity, "Neurodiversity In Business". ⚖️
-- I speak English, Lingala and French (kind of...). 🎙
-- I play the piano & taught myself from the age of 12. 🎹
-- I've spoken at Bloomberg, Google, BT & Code First: Girls. 🧡
-
-## Awards (From Most Recent)
-
-- Most Influential Women In Tech UK, ComputerWeekly.com (Shortlist, 2021)
-- CDIS (Congolese Diaspora Impact Summit) Rising Leaders (Named, 2020)
-- WeAreTechWomen Tech Women 100 Award (Winner, 2020)
-- Rising Technologist Award at the Booking.com Technology Playmaker Awards (Nominated, 2020)
-- Most Influential Women In Tech UK, ComputerWeekly.com and Makers Academy (Shortlist, 2020)
-- Rising Star Award at the Black Tech Achievement Awards (Winner, 2020)
-- 50 of the Most Influential Black Voices In Tech UK by TechNation (Named, 2019)
-- Most Influential Women In Tech UK by ComputerWeekly.com, Level39 and Makers Academy (Named, 2019)
-- UK's first Women in Software Powerlist by Makers Academy & ComputerWeekly.com (Shortlisted, 2019)
-
+- I'm a black man
+- I started my tech career journey as an Information Technologist & then switched to becoming a System Engineer. 👩🏾‍💻
+- I'm a Nigerian!
+- I currently live in Atlanta, GA.
+- I speak English and French (kind of...). 🎙
+- I love soccer, football & basketball.
+- I enjoy spending time with family.
 ## I’m currently learning ...
 
 - Web3 🕸
@@ -85,7 +61,7 @@
 
 ### How To Find Me:
 
-<a href="https://www.linkedin.com/in/jenniferopal/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/prince-uduka-99622813a/"><img align="left" src="https://raw.githubusercontent.com/princeuduka/princeuduka/main/images/linkedin.svg" alt="Prince Uduka | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/instagram.svg" alt="Jennifer Opal | Instagram" width="21px"/></a>
-<a href="https://twitter.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/twitter.svg" alt="Jennifer Opal | Twitter" width="21px"/></a>
-<a href="http://jenniferopal.co/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
+<a href="https://twitter.com/_princeuduka"><img align="left" src="https://raw.githubusercontent.com/princeuduka/princeuduka/main/images/twitter.svg" alt="Prince Uduka | Twitter" width="21px"/></a>
+<a href="http://princeuduka.co/"><img align="left" src="https://raw.githubusercontent.com/princeuduka/princeuduka/main/images/internet.svg" alt="Prince Uduka | Official Blog and Website" width="21px"/></a>
