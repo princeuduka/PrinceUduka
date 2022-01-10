@@ -61,6 +61,8 @@
 
 ### How To Find Me:
 
-<a href="https://www.linkedin.com/in/prince-uduka-99622813a
-<a href="https://twitter.com/_princeuduka 
-<a href="http://princeuduka.co/
+<a href="https://www.linkedin.com/in/jenniferopal/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/instagram.svg" alt="Jennifer Opal | Instagram" width="21px"/></a>
+<a href="https://twitter.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/twitter.svg" alt="Jennifer Opal | Twitter" width="21px"/></a>
+<a href="http://jenniferopal.co/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
+
