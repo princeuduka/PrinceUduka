@@ -62,6 +62,5 @@
 ### How To Find Me:
 
 <a href="https://www.linkedin.com/in/prince-uduka-99622813a/"><img align="left" src="https://raw.githubusercontent.com/princeuduka/princeuduka/main/images/linkedin.svg" alt="Prince Uduka | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/instagram.svg" alt="Jennifer Opal | Instagram" width="21px"/></a>
 <a href="https://twitter.com/_princeuduka"><img align="left" src="https://raw.githubusercontent.com/princeuduka/princeuduka/main/images/twitter.svg" alt="Prince Uduka | Twitter" width="21px"/></a>
 <a href="http://princeuduka.co/"><img align="left" src="https://raw.githubusercontent.com/princeuduka/princeuduka/main/images/internet.svg" alt="Prince Uduka | Official Blog and Website" width="21px"/></a>
